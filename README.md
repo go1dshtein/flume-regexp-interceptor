@@ -1,3 +1,4 @@
+![travis-ci.org status](https://travis-ci.org/go1dshtein/flume-regexp-interceptor.svg?branch=master)
 # flume-regexp-interceptor
 
 Flume interceptor that create new headers from other headers by regular expressions.
